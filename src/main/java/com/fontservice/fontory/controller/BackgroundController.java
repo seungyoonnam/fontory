@@ -1,7 +1,7 @@
 package com.fontservice.fontory.controller;
 
 import com.fontservice.fontory.domain.Background;
-import com.fontservice.fontory.dto.BackgroundResponse;
+import com.fontservice.fontory.dto.sheet.BackgroundResponse;
 import com.fontservice.fontory.repository.BackgroundRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;

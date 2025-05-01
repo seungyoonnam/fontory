@@ -1,4 +1,4 @@
-package com.fontservice.fontory.dto;
+package com.fontservice.fontory.dto.sheet;
 
 import lombok.Builder;
 import lombok.Getter;

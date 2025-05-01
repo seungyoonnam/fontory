@@ -1,7 +1,6 @@
 package com.fontservice.fontory.repository;
 
 import com.fontservice.fontory.domain.Font;
-import com.fontservice.fontory.domain.FontLike;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
@@ -24,4 +23,3 @@ public interface FontRepository extends JpaRepository<Font, Integer> {
 
 
 }
-
